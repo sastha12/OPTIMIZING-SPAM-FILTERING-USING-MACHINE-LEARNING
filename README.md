@@ -1,1 +1,1 @@
-upload your main CSS file here!
+upload your JS files here!
